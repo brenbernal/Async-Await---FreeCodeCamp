@@ -1,20 +1,23 @@
-✏️ Course from Joy Shaheb (Available in FreeCodeCamp Youtube channel)
+<h1>✏️ Course from Joy Shaheb <br>
+  (Available in FreeCodeCamp Youtube channel)</h1>
 
-Learn how to use Async/Await, Promises, and Callbacks in JavaScript.
+https://www.youtube.com/watch?v=ZYb_ZU8LNxs&t=135s&ab_channel=freeCodeCamp.org
+  
+<b>Learn how to use Async/Await, Promises, and Callbacks in JavaScript.</b>
 
-⌨️ Intro
-⌨️ Asynchronous JS
-⌨️ Sync vs Async 
-⌨️ Examples ☝️ 
-⌨️ setTimeout function
-⌨️ callbacks w/examples
-⌨️ ice cream w/ callbacks 
-⌨️ Callback hell
-⌨️ Promises & promise cycle
-⌨️ Promise Chaining
-⌨️ error handling
-⌨️ finally handler 
-⌨️ Async/ Await 
-⌨️ try catch finally
-⌨️ Await keyword w/ example
+⌨️ Intro<br>
+⌨️ Asynchronous JS<br>
+⌨️ Sync vs Async<br> 
+⌨️ Examples ☝️<br>
+⌨️ setTimeout function<br>
+⌨️ callbacks w/examples<br>
+⌨️ ice cream w/ callbacks<br>
+⌨️ Callback hell<br>
+⌨️ Promises & promise cycle<br>
+⌨️ Promise Chaining<br>
+⌨️ error handling<br>
+⌨️ finally handler<br>
+⌨️ Async/ Await<br> 
+⌨️ try catch finally<br>
+⌨️ Await keyword w/ example<br>
 ⌨️ Ice cream w/ async/await
